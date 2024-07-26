@@ -1,0 +1,138 @@
+2022-10-23 17:05:17,163 - _log - 225 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-10-23 17:05:17,163 - _log - 225 - INFO -  * Running on http://172.27.220.18:5050/ (Press CTRL+C to quit)
+2022-10-23 17:05:17,164 - _log - 225 - INFO -  * Restarting with stat
+2022-10-23 17:05:17,682 - _log - 225 - WARNING -  * Debugger is active!
+2022-10-23 17:05:17,682 - _log - 225 - INFO -  * Debugger PIN: 123-376-592
+2022-10-23 17:06:24,091 - _log - 225 - INFO - 127.0.0.1 - - [23/Oct/2022 17:06:24] "[35m[1mGET /login HTTP/1.1[0m" 500 -
+2022-10-23 17:09:03,454 - _log - 225 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-10-23 17:09:03,454 - _log - 225 - INFO -  * Running on http://172.27.220.18:5050/ (Press CTRL+C to quit)
+2022-10-23 17:09:03,455 - _log - 225 - INFO -  * Restarting with stat
+2022-10-23 17:09:03,965 - _log - 225 - WARNING -  * Debugger is active!
+2022-10-23 17:09:03,966 - _log - 225 - INFO -  * Debugger PIN: 123-376-592
+2022-10-23 17:09:06,683 - login - 6 - INFO - log in
+2022-10-23 17:09:06,684 - _log - 225 - INFO - 127.0.0.1 - - [23/Oct/2022 17:09:06] "GET /login HTTP/1.1" 200 -
+2022-10-23 17:09:14,721 - _log - 225 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-10-23 17:09:14,721 - _log - 225 - INFO -  * Running on http://172.27.220.18:5050/ (Press CTRL+C to quit)
+2022-10-23 17:09:14,723 - _log - 225 - INFO -  * Restarting with stat
+2022-10-23 17:09:15,235 - _log - 225 - WARNING -  * Debugger is active!
+2022-10-23 17:09:15,235 - _log - 225 - INFO -  * Debugger PIN: 123-376-592
+2022-10-23 17:09:31,806 - register - 11 - INFO - register
+2022-10-23 17:09:31,807 - _log - 225 - INFO - 127.0.0.1 - - [23/Oct/2022 17:09:31] "GET /register HTTP/1.1" 200 -
+2022-10-23 17:09:40,226 - _log - 225 - INFO - 127.0.0.1 - - [23/Oct/2022 17:09:40] "[35m[1mGET /mysqlquery HTTP/1.1[0m" 500 -
+2022-10-23 17:10:13,096 - _log - 225 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-10-23 17:10:13,096 - _log - 225 - INFO -  * Running on http://172.27.220.18:5050/ (Press CTRL+C to quit)
+2022-10-23 17:10:13,097 - _log - 225 - INFO -  * Restarting with stat
+2022-10-23 17:10:13,606 - _log - 225 - WARNING -  * Debugger is active!
+2022-10-23 17:10:13,607 - _log - 225 - INFO -  * Debugger PIN: 123-376-592
+2022-10-23 17:10:15,722 - _log - 225 - INFO - 127.0.0.1 - - [23/Oct/2022 17:10:15] "GET /mysqlquery HTTP/1.1" 200 -
+2022-10-23 17:37:27,449 - _log - 225 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-10-23 17:37:27,449 - _log - 225 - INFO -  * Running on http://172.27.220.18:5050/ (Press CTRL+C to quit)
+2022-10-23 17:37:27,451 - _log - 225 - INFO -  * Restarting with stat
+2022-10-23 17:37:27,962 - _log - 225 - WARNING -  * Debugger is active!
+2022-10-23 17:37:27,963 - _log - 225 - INFO -  * Debugger PIN: 123-376-592
+2022-10-23 17:38:27,175 - _log - 225 - INFO - 127.0.0.1 - - [23/Oct/2022 17:38:27] "GET /mysqlquery HTTP/1.1" 200 -
+2022-10-23 17:38:38,677 - _log - 225 - INFO - 127.0.0.1 - - [23/Oct/2022 17:38:38] "[35m[1mGET /music/1 HTTP/1.1[0m" 500 -
+2022-10-23 17:39:04,228 - _log - 225 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-10-23 17:39:04,228 - _log - 225 - INFO -  * Running on http://172.27.220.18:5050/ (Press CTRL+C to quit)
+2022-10-23 17:39:04,230 - _log - 225 - INFO -  * Restarting with stat
+2022-10-23 17:39:04,753 - _log - 225 - WARNING -  * Debugger is active!
+2022-10-23 17:39:04,753 - _log - 225 - INFO -  * Debugger PIN: 123-376-592
+2022-10-23 17:39:07,424 - _log - 225 - INFO - 127.0.0.1 - - [23/Oct/2022 17:39:07] "GET /music/1 HTTP/1.1" 200 -
+2022-10-23 17:39:57,345 - _log - 225 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-10-23 17:39:57,345 - _log - 225 - INFO -  * Running on http://172.27.220.18:5050/ (Press CTRL+C to quit)
+2022-10-23 17:39:57,346 - _log - 225 - INFO -  * Restarting with stat
+2022-10-23 17:39:57,858 - _log - 225 - WARNING -  * Debugger is active!
+2022-10-23 17:39:57,858 - _log - 225 - INFO -  * Debugger PIN: 123-376-592
+2022-10-23 17:40:00,279 - _log - 225 - INFO - 127.0.0.1 - - [23/Oct/2022 17:40:00] "GET /music/1 HTTP/1.1" 200 -
+2022-10-23 17:40:01,700 - _log - 225 - INFO - 127.0.0.1 - - [23/Oct/2022 17:40:01] "GET /music/1 HTTP/1.1" 200 -
+2022-10-23 17:40:52,347 - _log - 225 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-10-23 17:40:52,347 - _log - 225 - INFO -  * Running on http://172.27.220.18:5050/ (Press CTRL+C to quit)
+2022-10-23 17:40:52,349 - _log - 225 - INFO -  * Restarting with stat
+2022-10-23 17:40:52,860 - _log - 225 - WARNING -  * Debugger is active!
+2022-10-23 17:40:52,861 - _log - 225 - INFO -  * Debugger PIN: 123-376-592
+2022-10-23 17:40:54,829 - _log - 225 - INFO - 127.0.0.1 - - [23/Oct/2022 17:40:54] "GET /music/1 HTTP/1.1" 200 -
+2022-10-23 17:40:56,188 - _log - 225 - INFO - 127.0.0.1 - - [23/Oct/2022 17:40:56] "GET /music/2 HTTP/1.1" 200 -
+2022-10-23 17:41:24,828 - _log - 225 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-10-23 17:41:24,828 - _log - 225 - INFO -  * Running on http://172.27.220.18:5050/ (Press CTRL+C to quit)
+2022-10-23 17:41:24,829 - _log - 225 - INFO -  * Restarting with stat
+2022-10-23 17:41:25,344 - _log - 225 - WARNING -  * Debugger is active!
+2022-10-23 17:41:25,344 - _log - 225 - INFO -  * Debugger PIN: 123-376-592
+2022-10-23 17:41:27,624 - _log - 225 - INFO - 127.0.0.1 - - [23/Oct/2022 17:41:27] "GET /music/2 HTTP/1.1" 200 -
+2022-10-23 17:41:29,005 - _log - 225 - INFO - 127.0.0.1 - - [23/Oct/2022 17:41:29] "GET /music/1 HTTP/1.1" 200 -
+2022-10-23 17:42:04,536 - _log - 225 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-10-23 17:42:04,536 - _log - 225 - INFO -  * Running on http://172.27.220.18:5050/ (Press CTRL+C to quit)
+2022-10-23 17:42:04,538 - _log - 225 - INFO -  * Restarting with stat
+2022-10-23 17:42:05,060 - _log - 225 - WARNING -  * Debugger is active!
+2022-10-23 17:42:05,060 - _log - 225 - INFO -  * Debugger PIN: 123-376-592
+2022-10-23 17:42:06,781 - _log - 225 - INFO - 127.0.0.1 - - [23/Oct/2022 17:42:06] "GET /music/1 HTTP/1.1" 200 -
+2022-10-23 17:42:08,416 - _log - 225 - INFO - 127.0.0.1 - - [23/Oct/2022 17:42:08] "GET /music/2 HTTP/1.1" 200 -
+2022-10-23 17:42:36,124 - _log - 225 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-10-23 17:42:36,124 - _log - 225 - INFO -  * Running on http://172.27.220.18:5050/ (Press CTRL+C to quit)
+2022-10-23 17:42:36,125 - _log - 225 - INFO -  * Restarting with stat
+2022-10-23 17:42:36,634 - _log - 225 - WARNING -  * Debugger is active!
+2022-10-23 17:42:36,634 - _log - 225 - INFO -  * Debugger PIN: 123-376-592
+2022-10-23 17:42:40,788 - _log - 225 - INFO - 127.0.0.1 - - [23/Oct/2022 17:42:40] "GET /music/1 HTTP/1.1" 200 -
+2022-10-23 17:42:42,276 - _log - 225 - INFO - 127.0.0.1 - - [23/Oct/2022 17:42:42] "GET /music/2 HTTP/1.1" 200 -
+2022-10-23 18:38:01,601 - _log - 225 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-10-23 18:38:01,601 - _log - 225 - INFO -  * Running on http://172.27.220.18:5050/ (Press CTRL+C to quit)
+2022-10-23 18:38:01,602 - _log - 225 - INFO -  * Restarting with stat
+2022-10-23 18:38:02,111 - _log - 225 - WARNING -  * Debugger is active!
+2022-10-23 18:38:02,112 - _log - 225 - INFO -  * Debugger PIN: 123-376-592
+2022-10-23 18:38:13,516 - _log - 225 - INFO - 127.0.0.1 - - [23/Oct/2022 18:38:13] "GET /music/410 HTTP/1.1" 200 -
+2022-10-23 18:38:44,142 - _log - 225 - INFO - 127.0.0.1 - - [23/Oct/2022 18:38:44] "GET /music/1 HTTP/1.1" 200 -
+2022-10-23 19:00:38,770 - _log - 225 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-10-23 19:00:38,770 - _log - 225 - INFO -  * Running on http://172.27.220.18:5050/ (Press CTRL+C to quit)
+2022-10-23 19:00:38,771 - _log - 225 - INFO -  * Restarting with stat
+2022-10-23 19:00:39,284 - _log - 225 - WARNING -  * Debugger is active!
+2022-10-23 19:00:39,285 - _log - 225 - INFO -  * Debugger PIN: 123-376-592
+2022-10-23 19:01:01,206 - _log - 225 - INFO - 127.0.0.1 - - [23/Oct/2022 19:01:01] "GET /music/amount HTTP/1.1" 200 -
+2022-10-23 19:01:14,906 - _log - 225 - INFO - 127.0.0.1 - - [23/Oct/2022 19:01:14] "GET /music/410 HTTP/1.1" 200 -
+2022-10-24 14:28:41,194 - _log - 225 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-10-24 14:28:41,195 - _log - 225 - INFO -  * Running on http://172.27.220.18:5050/ (Press CTRL+C to quit)
+2022-10-24 14:28:41,196 - _log - 225 - INFO -  * Restarting with stat
+2022-10-24 14:28:41,715 - _log - 225 - WARNING -  * Debugger is active!
+2022-10-24 14:28:41,716 - _log - 225 - INFO -  * Debugger PIN: 123-376-592
+2022-10-28 21:51:00,356 - _log - 225 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-10-28 21:51:00,357 - _log - 225 - INFO -  * Running on http://172.27.220.18:5050/ (Press CTRL+C to quit)
+2022-10-28 21:51:00,359 - _log - 225 - INFO -  * Restarting with stat
+2022-10-28 21:51:00,878 - _log - 225 - WARNING -  * Debugger is active!
+2022-10-28 21:51:00,879 - _log - 225 - INFO -  * Debugger PIN: 123-376-592
+2022-10-28 23:48:53,022 - _log - 225 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-10-28 23:48:53,022 - _log - 225 - INFO -  * Running on http://172.27.220.18:5050/ (Press CTRL+C to quit)
+2022-10-28 23:48:53,024 - _log - 225 - INFO -  * Restarting with stat
+2022-10-28 23:48:53,574 - _log - 225 - WARNING -  * Debugger is active!
+2022-10-28 23:48:53,574 - _log - 225 - INFO -  * Debugger PIN: 123-376-592
+2022-10-29 00:17:06,228 - _log - 225 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-10-29 00:17:06,229 - _log - 225 - INFO -  * Running on http://172.27.220.18:5050/ (Press CTRL+C to quit)
+2022-10-29 00:17:06,230 - _log - 225 - INFO -  * Restarting with stat
+2022-10-29 00:17:06,786 - _log - 225 - WARNING -  * Debugger is active!
+2022-10-29 00:17:06,787 - _log - 225 - INFO -  * Debugger PIN: 123-376-592
+2022-10-30 13:36:22,843 - _log - 225 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-10-30 13:36:22,844 - _log - 225 - INFO -  * Running on http://172.27.220.18:5050/ (Press CTRL+C to quit)
+2022-10-30 13:36:22,845 - _log - 225 - INFO -  * Restarting with stat
+2022-10-30 13:36:23,397 - _log - 225 - WARNING -  * Debugger is active!
+2022-10-30 13:36:23,398 - _log - 225 - INFO -  * Debugger PIN: 123-376-592
+2022-10-30 18:12:27,494 - _log - 225 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-10-30 18:12:27,494 - _log - 225 - INFO -  * Running on http://172.27.220.18:5050/ (Press CTRL+C to quit)
+2022-10-30 18:12:27,495 - _log - 225 - INFO -  * Restarting with stat
+2022-10-30 18:12:28,058 - _log - 225 - WARNING -  * Debugger is active!
+2022-10-30 18:12:28,058 - _log - 225 - INFO -  * Debugger PIN: 123-376-592
